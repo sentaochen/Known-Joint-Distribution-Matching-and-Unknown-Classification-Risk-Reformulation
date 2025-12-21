@@ -2,7 +2,7 @@
 
 <img src="KMUR_LSTDE.png" width="100%">
 
-This repository provides the PyTorch code for the work "Open Set Domain Adaptation via Known Joint Distribution Matching and Unknown Classification Risk Reformulation" published in IEEE Transactions on Neural Networks and Learning Systems, 2026. This work includes (1) matching the source joint distribution to the target known joint distribution under the Triangular Discrimination (TD) distance, and deriving the unknown classification loss for recognizing the unknown class. See Fig.1 for the illustration of the main ideas and Fig.2 for the neural network architecture. 
+This repository provides the PyTorch code for the work "Open Set Domain Adaptation via Known Joint Distribution Matching and Unknown Classification Risk Reformulation" published in IEEE Transactions on Neural Networks and Learning Systems, 2026. This work includes (1) matching the source joint distribution to the target known joint distribution under the Triangular Discrimination (TD) distance, and (2) deriving the unknown classification loss for recognizing the unknown class. See Fig.1 for the illustration of the main ideas and Fig.2 for the neural network architecture. 
 
 <img src="architecture.png" width="100%">
 

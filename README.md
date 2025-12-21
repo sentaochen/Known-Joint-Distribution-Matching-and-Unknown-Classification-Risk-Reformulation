@@ -6,7 +6,7 @@ This repository provides the PyTorch code for the work "Open Set Domain Adaptati
 
 <img src="architecture.png" width="100%">
 
-For quick demonstration, in this repository, the network model is implemented as a one-hidden-layer neural network, and the dataset for evaluating the KMUR approach is the PIE-Multiview dataset (see dataset description in the paper). The video for introducing this work will soon be available at the Bilibili website.
+For quick demonstration, in this repository, the network model is implemented as a one-hidden-layer neural network, and the dataset for evaluating the KMUR approach is the PIE-Multiview dataset (see dataset description in the paper). The provided code can run on a simple laptop with or without GPU. Go crazy and get your hands dirty! The video for introducing this work will soon be available at the Bilibili website.
 
 Besides the KMUR approach for open set domain adaptation, we also develop a technique named Least Squares Triangular Discrimination Estimation (LSTDE) to estimate the Triangular Discrimination (TD) distance from empirical data. The TD distance is a statistical distance for measuring the discrepancy between two probability distributions. Our technique casts the estimation into the kernel-based least squares classification problem that has an analytic solution. See Fig.3 for the demonstration of the LSTDE technique on synthetic data.
 

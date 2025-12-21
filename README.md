@@ -4,7 +4,7 @@
 
 This repository provides the PyTorch code for the work "Open Set Domain Adaptation via Known Joint Distribution Matching and Unknown Classification Risk Reformulation" published in IEEE Transactions on Neural Networks and Learning Systems, 2026. This work includes (1) matching the source joint distribution to the target known joint distribution under the Triangular Discrimination (TD) distance, and (2) deriving the unknown classification loss for recognizing the unknown class. See Fig.1 for the illustration of the main ideas and Fig.2 for the neural network architecture. 
 
-<img src="architecture.png" width="100%">
+<img src="KMUR.png" width="100%">
 
 For quick demonstration, in this repository, the network model is implemented as a one-hidden-layer neural network, and the dataset for evaluating the KMUR approach is the PIE-Multiview dataset (see dataset description in the paper). The provided code can run on a simple laptop with or without GPU. Go crazy and get your hands dirty! The video for introducing this work will soon be available at the Bilibili website.
 

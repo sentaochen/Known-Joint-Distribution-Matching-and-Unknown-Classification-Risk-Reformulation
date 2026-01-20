@@ -22,7 +22,7 @@ For details of this open set domain adaptation work,  please refer to the paper 
   title={Open Set Domain Adaptation via Known Joint Distribution Matching and Unknown Classification Risk Reformulation},   
   year={2026},   
   volume = {},  
-  pages={},   
+  pages={1--14},   
   issn = {},  
   doi={https://doi.org/10.1109/TNNLS.2025.3647483}   
   }
